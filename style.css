@@ -1,0 +1,29 @@
+.btn-danger{
+ color : beige;
+ font-size : 25px;
+ margin : 0px;
+ width : 100%;
+ box-shadow : cyan 5px 5px 5px;
+}
+.col-lg-6{
+ background-color : darkkhaki;
+ padding : 10px;
+ border-radius : 20px;
+ color : mediumslateblue;
+ box-shadow : cyan 5px 5px 5px;
+ float : none;
+ font-size : 25px;
+}
+.btn-info{
+ box-shadow : cyan 5px 5px 50px;
+}
+.result{
+ box-shadow : cyan 5px 5px 5px;
+ font-size : 15px;
+}
+canvas{
+ border : 4px dotted cyan;
+ border-radius : 40px;
+ box-shadow : lightpink 5px 5px 5px;
+ margin-top : 330px;
+}
